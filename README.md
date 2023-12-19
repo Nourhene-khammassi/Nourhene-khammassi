@@ -6,7 +6,6 @@
 - 💬 Ask me about any Programming language **JAVA, C# ...**, Framework **Angular, SpringBoot**
 
 - 📫 How to reach me **khamessinourhen@gmail.com**
-<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/https://www.linkedin.com/in/nourh%c3%a9ne-khammassi-89bb041ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nourh%c3%a9ne-khammassi-89bb041ba/" height="30" width="40" /></a>
