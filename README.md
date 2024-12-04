@@ -4,7 +4,7 @@
 <p align="left">  </p>
 
 - 💬 Ask me about any Programming language **JAVA, C# ...**, Framework **Angular, SpringBoot**
-
+- 🌱 I’m currently working in the D-it company Tunis 
 - 📫 How to reach me **khamessinourhen@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
