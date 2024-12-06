@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=firashkimi&label=Profile%20views&color=0e75b6&style=flat" alt="firashkimi" /> </p>
 <h1 align="center">Hi 👋, I'm Khammassi Nourhene</h1>
 <h3 align="center">Software Engineer(SpringBoot & Angular) from Tunisia</h3>
 <p><img align="right" width="400px" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="nourhene-khammassi" /></p>
